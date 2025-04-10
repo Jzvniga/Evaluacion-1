@@ -2,6 +2,7 @@
 
 **CosmoStore** es un sitio web educativo inspirado en el universo, basado en la serie *Cosmos: A Spacetime Odyssey*. Aquí puedes encontrar telescopios, posters y kits para aprender del espacio mientras te inspiras con frases galácticas.
 
+Puedes visitar el sitio aquí: [Ir a CosmoStore](http://127.0.0.1:5500/SRC/Cosmos.html)
 ---
 
 ## 🚀 Tecnologías Utilizadas
@@ -29,3 +30,6 @@
 **José Ignacio Zúñiga**  
 📍 Santa Cruz, Chile  
 🎓 Ingeniería Civil en Informática  
+
+---
+
