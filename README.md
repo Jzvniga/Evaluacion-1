@@ -2,7 +2,7 @@
 
 **CosmoStore** es un sitio web educativo inspirado en el universo, basado en la serie *Cosmos: A Spacetime Odyssey*. Aquí puedes encontrar telescopios, posters y kits para aprender del espacio mientras te inspiras con frases galácticas.
 
-Puedes visitar el sitio aquí: [Ir a CosmoStore](https://jzvniga.github.io/Evaluacion-1/index.html)
+Puedes visitar el sitio aquí: [Ir a CosmoStore]()
 ---
 
 ## 🚀 Tecnologías Utilizadas
