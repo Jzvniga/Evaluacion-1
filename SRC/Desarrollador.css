@@ -1,0 +1,66 @@
+/* ===== PERFIL ===== */
+.profile-banner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: #1b263b;
+    color: #fff;
+    padding: 3rem 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    margin-top: 2rem;
+    gap: 2rem;
+  }
+  
+  .banner-image {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .profile-pic img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #66ccff;
+    box-shadow: 0 0 12px rgba(102, 204, 255, 0.6);
+  }
+  
+  .profile-info {
+    max-width: 500px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .profile-info h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .profile-info p {
+    margin: 0.5rem 0;
+  }
+  
+  .profile-info a {
+    color: #00ffd1;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .profile-info a:hover {
+    text-decoration: underline;
+  }
+
+  .btn-ventas {
+    background: linear-gradient(135deg, #00bfa6, #007f76);
+    border: none;
+    color: #fff;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+  }

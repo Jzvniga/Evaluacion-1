@@ -216,6 +216,22 @@
     transform: scale(1.2);
   }
 
+  .desarrollador {
+    background: linear-gradient(135deg, #00bfa6, #007f76);
+    border: none;
+    color: #fff;
+    padding: 0.5rem 1.0rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
   @keyframes scroll {
     0% { transform: translateX(0); }
     100% { transform: translateX(-50%); }
