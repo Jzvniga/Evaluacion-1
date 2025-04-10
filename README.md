@@ -1,12 +1,35 @@
-CosmosStore
+# 🌌 CosmoStore
 
-# Evaluacion-1
-Estudiante: Jose Zuñiga
-rut: 20180085-4
-ELECTIVO III: PROGRAMACIÓN DE APLICACIONES WEB
+**CosmoStore** es un sitio web educativo inspirado en el universo, basado en la serie *Cosmos: A Spacetime Odyssey*. Aquí puedes encontrar telescopios, posters y kits para aprender del espacio mientras te inspiras con frases galácticas.
 
+Puedes visitar el sitio aquí: [Ir a CosmoStore](http://127.0.0.1:5500/SRC/Cosmos.html)
+---
 
-Descripción
+## 🚀 Tecnologías Utilizadas
 
-CosmoStore, es una pagina desatollada con HTML y CSS, que va a dirigida a los viajeros del espacio y su ímpetu en conocer el cosmos
+- HTML5
+- CSS
+- Diseño Responsivo
+
+---
+
+## ✨ Características
+
+- Productos destacados
+- Testimonios
+- Slider animado de frases cósmicas
+- Página de perfil del desarrollador
+
+---
+
+## 📸 Vista previa
+![image](https://github.com/user-attachments/assets/5321b538-fcff-46ad-a057-9c54997cc8c5)
+
+## 👨‍💻 Desarrollador
+
+**José Ignacio Zúñiga**  
+📍 Santa Cruz, Chile  
+🎓 Ingeniería Civil en Informática  
+
+---
 
